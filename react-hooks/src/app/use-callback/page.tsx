@@ -22,9 +22,9 @@ export default function UseCallbackPage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useCallback Hook Demo</h1>
+      <h1>useCallback Hook Demo</h1>
       <p>
-        The <code>useCallback</code> hook memoizes functions so they’re recreated only when dependencies change.
+        The useCallback hook memoizes functions so they’re recreated only when dependencies change.
       </p>
 
       <div style={{ marginBottom: '1rem' }}>

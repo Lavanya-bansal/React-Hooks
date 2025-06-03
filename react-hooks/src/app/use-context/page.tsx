@@ -36,7 +36,7 @@ function ThemedComponent() {
         borderRadius: '8px',
       }}
     >
-      <h1>✨ useContext Hook Demo</h1>
+      <h1>useContext Hook Demo</h1>
       <p>Current Theme: {context.theme}</p>
       <button onClick={context.toggleTheme}>Toggle Theme</button>
     </div>

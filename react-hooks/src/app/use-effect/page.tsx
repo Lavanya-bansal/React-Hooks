@@ -14,9 +14,9 @@ export default function UseEffectPage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useEffect Hook Demo</h1>
+      <h1>useEffect Hook Demo</h1>
       <p>
-        The <code>useEffect</code> hook lets you perform side effects in function components.
+        The useEffect hook lets you perform side effects in function components.
         Here, we update the clock every second.
       </p>
       <div style={{ marginTop: '1.5rem', fontSize: '1.5rem' }}>Current Time: {time}</div>

@@ -18,9 +18,9 @@ export default function UseMemoPage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useMemo Hook Demo</h1>
+      <h1>useMemo Hook Demo</h1>
       <p>
-        The <code>useMemo</code> hook memoizes expensive calculations to optimize performance.
+        The useMemo hook memoizes expensive calculations to optimize performance.
       </p>
 
       <div>

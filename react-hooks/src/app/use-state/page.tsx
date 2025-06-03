@@ -6,9 +6,9 @@ export default function UseStatePage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useState Hook Demo</h1>
+      <h1> useState Hook Demo</h1>
       <p>
-        The <code>useState</code> hook lets you add state to functional components.
+        The useState hook lets you add state to functional components.
         Here, you can see a simple counter that updates its value on each button click.
       </p>
 

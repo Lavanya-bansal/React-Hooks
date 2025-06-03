@@ -11,9 +11,9 @@ export default function UseRefPage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useRef Hook Demo</h1>
+      <h1>useRef Hook Demo</h1>
       <p>
-        The <code>useRef</code> hook holds a mutable value and can directly access DOM elements.
+        The useRef hook holds a mutable value and can directly access DOM elements.
       </p>
 
       <input

@@ -22,9 +22,9 @@ export default function UseReducerPage() {
 
   return (
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
-      <h1>✨ useReducer Hook Demo</h1>
+      <h1>useReducer Hook Demo</h1>
       <p>
-        The <code>useReducer</code> hook manages complex state logic with a reducer function.
+        The useReducer hook manages complex state logic with a reducer function.
       </p>
       <div style={{ marginTop: '1.5rem' }}>
         <strong>Count:</strong> {state.count}
